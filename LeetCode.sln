@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csproj", "{A2A04D08-57F9-46D8-A233-DE7E312751CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse", "Reverse\Reverse\Reverse.csproj", "{6D73ADED-AE47-4EDB-B661-C6979C6690F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse", "Reverse\Reverse.csproj", "{6D73ADED-AE47-4EDB-B661-C6979C6690F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
